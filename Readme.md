@@ -6,6 +6,14 @@
 
 Building web applications while learning the systems and ideas behind them.
 
+<br>
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
 </div>
 
 <br>
@@ -31,25 +39,49 @@ Most of what I build right now runs on **React**, **Next.js**, **Node.js**, **Ex
 
 ## Projects
 
-**InkSync** — real-time docs
+### LiveInk — real-time docs
 A collaborative document platform built around real-time editing, comments, sharing, and document management.
-`Next.js` `TypeScript` `Tailwind CSS` `Liveblocks` `Clerk`
-[Source](https://github.com/harshrajput-0/inksync) · [Live](#)
 
-**ShopHive** — e-commerce
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Liveblocks](https://img.shields.io/badge/Liveblocks-000000?style=flat-square&logo=liveblocks&logoColor=white)
+![Clerk](https://img.shields.io/badge/Clerk-6C47FF?style=flat-square&logo=clerk&logoColor=white)
+
+&nbsp;
+
+[![Source](https://img.shields.io/badge/Source_Code-24292F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/harshrajput-0/liveink)
+[![Live](https://img.shields.io/badge/Live_Demo-inactive?style=for-the-badge&logo=vercel&logoColor=white&color=888888)](https://liveink.vercel.app/)
+
+<br>
+
+### ShopHive — e-commerce
 A full-stack e-commerce platform with product management, shopping flows, vendor functionality, and order management.
-`React` `Express` `MongoDB` `Cloudinary`
-[Source](https://github.com/harshrajput-0/shophive) · [Live](https://shophive.onrender.com)
 
-**Sangum** — community platform
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white)
+
+&nbsp;
+
+[![Source](https://img.shields.io/badge/Source_Code-24292F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/harshrajput-0/shophive)
+[![Live](https://img.shields.io/badge/Live_Demo-46E3B7?style=for-the-badge&logo=render&logoColor=white)](https://shophive-wct6.onrender.com/)
+
+<br>
+
+### Sangum — community platform
 A community and learning platform where people can connect, discuss, share, and learn together.
-`Next.js` `MongoDB` `Zustand` `Tailwind CSS`
-[Source](https://github.com/harshrajput-0/sangum) · [Live](#)
 
-**Dev Job Tracker** — job search tool
-A personal tool for organizing job applications, eventually using AI to surface useful insights through the search.
-`Next.js` `MongoDB` `AI`
-[Source](https://github.com/harshrajput-0/dev-job-tracker) · [Live](#)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-433E38?style=flat-square&logo=react&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+
+&nbsp;
+
+[![Source](https://img.shields.io/badge/Source_Code-24292F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/harshrajput-0/sangum)
+[![Live](https://img.shields.io/badge/Live_Demo-inactive?style=for-the-badge&logo=vercel&logoColor=white&color=888888)](#)
 
 <br>
 
@@ -87,7 +119,9 @@ A personal tool for organizing job applications, eventually using AI to surface 
 
 <div align="center">
 
-[GitHub](https://github.com/harshrajput-0) · [Email](mailto:your.email@example.com) · [LinkedIn](https://linkedin.com/in/your-linkedin)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/harshrajput-0)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshrajput0426/)
+[![Email](https://img.shields.io/badge/Email-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:harshrajput.dev@proton.me)
 
 </div>
 
